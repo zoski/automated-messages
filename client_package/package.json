@@ -1,12 +1,13 @@
 {
     "authors":[
-		"Johnanater"
+		"Johnanater",
+		"Gaël Alberola"
 	],
     "jcmp_dependencies":[
 		"chat"
 	],
     "license":"MIT",
     "main":"",
-    "name":"automated-messages",
-    "version":"0.0.2"
+    "name":"auto-message",
+    "version":"1.0.0"
 }
