@@ -3,7 +3,7 @@
 Automated Messages
 */
 
-console.log('[Automated-Messages] Online!');
+console.log('[AM] Auto messages started...');
 
 const chat = jcmp.events.Call('get_chat')[0];
 
@@ -19,9 +19,8 @@ var msg = [
 ];
 
 
-
 //By default it'll pick a random one every 5 minutes!
-var minutes = 5
+var minutes = 30
 var the_interval = minutes * 60 * 1000;
 setInterval(function() {
 	var rand = parseInt(Math.random()*msg.length);
