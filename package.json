@@ -1,13 +1,13 @@
 {
-    "authors":[
-		"Johnanater",
-		"Gaël Alberola <zoski@free.fr>"
-	],
-    "jcmp_dependencies":[
-		"chat"
-	],
-    "license":"MIT",
-    "main":"",
-    "name":"auto-messages",
-    "version":"1.0.0"
+    "authors": [
+        "Johnanater",
+        "Gaël Alberola <zoski@free.fr>"
+    ],
+    "jcmp_dependencies": [
+        "chat"
+    ],
+    "license": "MIT",
+    "main": "",
+    "name": "auto-messages",
+    "version": "1.0.0"
 }
